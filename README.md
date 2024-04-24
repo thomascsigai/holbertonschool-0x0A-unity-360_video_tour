@@ -3,9 +3,10 @@
 ![Project Banner](https://www.innovativelg.com/blog/wp-content/uploads/2018/05/Walter_360Video_Image-953x480.jpg)
 
 ## 📝 Description
-Welcome to the "Unity - 360 Video Tour" project, an immersive journey into the world of Virtual Reality (VR). This project enables developers to create multi-platform VR experiences that are compatible with various hardware devices, from Oculus Quest 2 to HTC Vive and more. Dive into creating environments that simulate 360-degree videos and provide a captivating experience for users.
+"Unity - 360 Video Tour" is an innovative Virtual Reality (VR) experience designed to immerse users into a 360-degree video environment. This project showcases the capabilities of Unity in creating VR content that is not only interactive but also adaptable to various VR platforms like Oculus Quest 2, HTC Vive, and others. By navigating through different scenes, users experience a seamless blend of virtual environments and reality.
 
-Throughout this project, you'll explore the differences between 3DOF and 6DOF, learn to use Unity's Video Player for VR content, and tackle challenges such as optimizing video playback for VR headsets. By the end, you'll be equipped to build VR experiences considering the choice of SDK, control/navigation schemes, and hardware capabilities.
+The VR tour developed in this project allows users to explore various settings, simulated with high-definition 360-degree videos, making them feel as if they are truly part of the environment. The application is designed to be intuitive, with interactive hotspots that guide users through the tour, enhancing their engagement and providing a comprehensive VR experience.
+
 
 ## 📚 Resources
 - [Getting started in interactive 360 video](https://intranet.hbtn.io/rltoken/uMFCV4j8CAB6db9NAOx6RQ)
