@@ -22,7 +22,6 @@ public class TransitionScreen : MonoBehaviour
 
     public void startFadeOut()
     {
-        StartCoroutine(FadeIn());
         StartCoroutine(FadeOut());
     }
 
@@ -36,6 +35,7 @@ public class TransitionScreen : MonoBehaviour
             image.color = curColor;
             yield return null;
         }
+        StartCoroutine(FadeOut());
     }
 
     IEnumerator FadeOut()
